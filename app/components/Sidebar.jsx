@@ -11,7 +11,7 @@ import { HomeIcon } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 
-const Sidebar = ({ children }) => {
+const Sidebar = () => {
   // const theme = useTheme();
   // const spacing = theme.spacing({});
   // const sm = theme.breakpoints.up('sm');
