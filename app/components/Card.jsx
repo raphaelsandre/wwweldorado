@@ -18,8 +18,7 @@ const CardItem = ({ produto }) => {
   return (
     <div
       className='p-0 m-2 items-center flex-grow border-2 border-white bg-white 
-      
-      style={{ maxWidth: '200px' }}
+'
     >
       <div className='h-14 my-2'>
         <p className='break-words capitalize flex text-center text-emerald-900 text-sm sm:text-base'>

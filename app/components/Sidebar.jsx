@@ -3,7 +3,11 @@ import React from 'react';
 
 import Drawer from '@mui/material/Drawer';
 import Box from '@mui/material/Box';
-import { Menubar, MenubarMenu, MenubarContent } from '../components/ui/menubar';
+import {
+  Menubar,
+  MenubarMenu,
+  MenubarContent
+} from '../../@components/ui/menubar';
 import { useTheme } from '@mui/material';
 import { Navigation } from '../context/Navigation.jsx';
 import * as NavigationMenu from '@radix-ui/react-navigation-menu';
